@@ -1,8 +1,11 @@
 # macOS
 .DS_Store
 
-### IntelliJ
+# IntelliJ
 .idea
 *.iml
 out
 gen
+
+# Firebase
+.firebase

@@ -1,0 +1,15 @@
+{
+  "hosting": {
+    "public": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      ".gitignore",
+      ".DS_Store",
+      "**/.idea/**",
+      "*.iml",
+      "**/out/**",
+      "**/gen/**"
+    ]
+  }
+}
