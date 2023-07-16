@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+### IntelliJ
+.idea
+*.iml
+out
+gen
